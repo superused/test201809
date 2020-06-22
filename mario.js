@@ -178,4 +178,5 @@ $(function() {
             $('html').trigger(e);
         }
     });
+    alert("マリオ");
 });
