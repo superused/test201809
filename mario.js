@@ -177,6 +177,7 @@ $(function() {
             e.keyCode = arr[0];
             $('html').trigger(e);
         }
+        alert('test');
     });
     alert("マリオ");
 });
